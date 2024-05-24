@@ -3,9 +3,8 @@
 
 ```
 ## Contributors
-- Abhishek Singh
-- Raman Kumar
+- Shivam Kumar
+- Chandan Kumar Singh
 - Satya Prakash
-- Saurabh Sahu
-- Surya Kant Ghosh
+- siddharth sharma
 ```
